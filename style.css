@@ -1,0 +1,13 @@
+#accueil_p2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around; 
+    align-items: center; 
+    height: 100vh;
+}
+
+#img_accueil_1,
+#img_accueil_2 {
+    max-height: 100vh;
+
+}
